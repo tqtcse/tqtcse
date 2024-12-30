@@ -2,8 +2,6 @@
 
 - 🌱 I’m currently learning **Assembly Language Programming**
 
-- 📝 I regularly write articles on [https://www.facebook.com/Wall.Bat.Baiz/]([https://www.facebook.com/tranquoc.toan.200/](https://www.facebook.com/tranquoc.toan.200/))
-
 - 📫 How to reach me **maristran72@gmail.com**
 
 
@@ -17,4 +15,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tidzvl&label=Profile%20views&color=0e75b6&style=flat" alt="tidzvl" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tidzvl" alt="tidzvl" /></a> </p>
+
