@@ -35,5 +35,5 @@
 
 <h3 align="left">APIs: </h3>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-<a href="https://openai.com/index/openai-api/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSobT6Nq7W-FJnK5lLapZlwySLwB0W4sKCYDg&s" alt="openai" width="40" height="40"/> </a>
-<a href="https://ai.google.dev/aistudio?gad_source=1&gclid=CjwKCAiA-Oi7BhA1EiwA2rIu29SO3rSqLKr7UQvaWNAoOh-MzX4Zc1VBW27p6j2AXuD0gBzAsvnDSRoCMtgQAvD_BwE" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/2560px-Google_Gemini_logo.svg.png" alt="gemini" width="80" height="40"/> </a>
+<a href="https://openai.com/index/openai-api/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/2560px-OpenAI_Logo.svg.png" alt="openai" width="85" height="40"/> </a>
+<a href="https://ai.google.dev/aistudio?gad_source=1&gclid=CjwKCAiA-Oi7BhA1EiwA2rIu29SO3rSqLKr7UQvaWNAoOh-MzX4Zc1VBW27p6j2AXuD0gBzAsvnDSRoCMtgQAvD_BwE" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/2560px-Google_Gemini_logo.svg.png" alt="gemini" width="85" height="40"/> </a>
