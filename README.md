@@ -35,4 +35,4 @@
 
 <h3 align="left">APIs: </h3>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-<a href="https://openai.com/index/openai-api/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-OpenAI%20API-eee?style=flat-square&logo=openai&logoColor=412991" alt="openai" width="40" height="40"/> </a>
+<a href="https://openai.com/index/openai-api/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/openai/images/2d0c228b-22e2-44ae-8fbd-d1d7646605c2.svg" alt="openai" width="40" height="40"/> </a>
