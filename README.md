@@ -33,6 +33,7 @@
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/670px-Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
+<a href="https://app.diagrams.net/" target="_blank" rel="noreferrer"> <img src="https://drawio-app.com/wp-content/uploads/2021/05/drawio_logo_RGB_symbol_large.png" alt="diagram" width="40" height="40"/> </a>
 <h3 align="left">APIs: </h3>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
 <a href="https://claude.ai/login?returnTo=%2F%3F" target="_blank" rel="noreferrer"> <img src="https://zorgle.co.uk/wp-content/uploads/2024/11/Claude-ai-logo.png" alt="claude" width="40" height="40"/> </a>
