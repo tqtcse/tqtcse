@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5f9d701b-292f-4bb5-827a-39421c7edaa7)<h1 align="center">Hi 👋, I'm Toan</h1>
+<h1 align="center">Hi 👋, I'm Toan</h1>
 
 - 🌱 I’m currently learning **Assembly Language Programming**
 
@@ -37,3 +37,4 @@
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
 <a href="https://openai.com/index/openai-api/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSobT6Nq7W-FJnK5lLapZlwySLwB0W4sKCYDg&s" alt="openai" width="45" height="40"/> </a>
 <a href="https://ai.google.dev/aistudio?gad_source=1&gclid=CjwKCAiA-Oi7BhA1EiwA2rIu29SO3rSqLKr7UQvaWNAoOh-MzX4Zc1VBW27p6j2AXuD0gBzAsvnDSRoCMtgQAvD_BwE" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/2560px-Google_Gemini_logo.svg.png" alt="gemini" width="90" height="40"/> </a>
+<a href="https://www.llama.com/" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/v2/D4D12AQH485epiLHsfQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1716126001046?e=2147483647&v=beta&t=J1WP9_7y4Y001Om29JZ7XVi6yU5D0uDz8Uo2PjJTZks" alt="llama" width="90" height="40"/> </a>
