@@ -32,10 +32,11 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/670px-Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
 <h3 align="left">APIs: </h3>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
+<a href="https://claude.ai/login?returnTo=%2F%3F" target="_blank" rel="noreferrer"> <img src="https://zorgle.co.uk/wp-content/uploads/2024/11/Claude-ai-logo.png" alt="claude" width="40" height="40"/> </a>
 <a href="https://openai.com/index/openai-api/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSobT6Nq7W-FJnK5lLapZlwySLwB0W4sKCYDg&s" alt="openai" width="45" height="40"/> </a>
 <a href="https://ai.google.dev/aistudio?gad_source=1&gclid=CjwKCAiA-Oi7BhA1EiwA2rIu29SO3rSqLKr7UQvaWNAoOh-MzX4Zc1VBW27p6j2AXuD0gBzAsvnDSRoCMtgQAvD_BwE" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/2560px-Google_Gemini_logo.svg.png" alt="gemini" width="90" height="40"/> </a>
 <a href="https://www.llama.com/" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/v2/D4D12AQH485epiLHsfQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1716126001046?e=2147483647&v=beta&t=J1WP9_7y4Y001Om29JZ7XVi6yU5D0uDz8Uo2PjJTZks" alt="llama" width="90" height="40"/> </a>
-<a href="https://claude.ai/login?returnTo=%2F%3F" target="_blank" rel="noreferrer"> <img src="https://zorgle.co.uk/wp-content/uploads/2024/11/Claude-ai-logo.png" alt="claude" width="40" height="40"/> </a>
+
