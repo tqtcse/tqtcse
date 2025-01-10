@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f83b3fce-f5dc-478d-a250-274dc02e2589)![image](https://github.com/user-attachments/assets/17a937ae-e900-437c-afb8-ab9c618b3493)<h1 align="center">Hi 👋, I'm Toan</h1>
+<h1 align="center">Hi 👋, I'm Toan</h1>
 
 - 🌱 I’m currently learning **Assembly Language Programming**
 
