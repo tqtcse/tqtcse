@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Toan</h1>
+![image](https://github.com/user-attachments/assets/f83b3fce-f5dc-478d-a250-274dc02e2589)![image](https://github.com/user-attachments/assets/17a937ae-e900-437c-afb8-ab9c618b3493)<h1 align="center">Hi 👋, I'm Toan</h1>
 
 - 🌱 I’m currently learning **Assembly Language Programming**
 
@@ -42,7 +42,7 @@
 <a href="https://app.diagrams.net/" target="_blank" rel="noreferrer"> <img src="https://drawio-app.com/wp-content/uploads/2021/05/drawio_logo_RGB_symbol_large.png" alt="diagram" width="40" height="40"/> </a>
 <a href="https://p5js.org/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/502135348663578624/-oslcYof_400x400.png" alt="p5js" width="40" height="40"/> </a>
 <a href="https://www.netacad.com/cisco-packet-tracer"> <img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" alt="packet_tracker" width="40" height="40"/> </a>
-<a href="https://www.wireshark.org/download.html"> <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="40" height="40"/> </a>
+<a href="https://www.wireshark.org/download.html"> <img src="https://static-00.iconduck.com/assets.00/wireshark-alt-icon-2048x2048-4ex8a9zk.png" alt="wireshark" width="40" height="40"/> </a>
 <h3 align="left">APIs: </h3>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
 <a href="https://claude.ai/login?returnTo=%2F%3F" target="_blank" rel="noreferrer"> <img src="https://zorgle.co.uk/wp-content/uploads/2024/11/Claude-ai-logo.png" alt="claude" width="40" height="40"/> </a>
