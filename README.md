@@ -18,6 +18,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/haskell/haskell-icon.svg" alt="haskell" width="40" height="40"/> </a>
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://vi.wikipedia.org/wiki/Pascal_(ng%C3%B4n_ng%E1%BB%AF_l%E1%BA%ADp_tr%C3%ACnh)" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluent/512/pascal.png" alt="pascal" width="40" height="40"/> </a>
   
 <h3 align="left">Frontend: </h3>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
