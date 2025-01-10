@@ -31,6 +31,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="express" width="40" height="40"/> </a>
 <h3 align="left">OS & Tools: </h3>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
@@ -41,6 +42,7 @@
 <a href="https://app.diagrams.net/" target="_blank" rel="noreferrer"> <img src="https://drawio-app.com/wp-content/uploads/2021/05/drawio_logo_RGB_symbol_large.png" alt="diagram" width="40" height="40"/> </a>
 <a href="https://p5js.org/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/502135348663578624/-oslcYof_400x400.png" alt="p5js" width="40" height="40"/> </a>
 <a href="https://www.netacad.com/cisco-packet-tracer"> <img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" alt="packet_tracker" width="40" height="40"/> </a>
+<a href="https://www.wireshark.org/download.html"> <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="40" height="40"/> </a>
 <h3 align="left">APIs: </h3>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
 <a href="https://claude.ai/login?returnTo=%2F%3F" target="_blank" rel="noreferrer"> <img src="https://zorgle.co.uk/wp-content/uploads/2024/11/Claude-ai-logo.png" alt="claude" width="40" height="40"/> </a>
